@@ -1,0 +1,91 @@
+html {
+    background-color: lightslategray;
+}
+
+header {
+    background-color: cornflowerblue;
+    text-align: justify;
+}
+
+.carrossel {
+    justify-content: center;
+} 
+
+.rodapé {
+    height: 22vh;
+    width: 100vw;
+    padding: 10px;
+    background-color: cornflowerblue;
+    text-align: center;
+    
+}
+
+#nossoTime {
+    width: 700px;
+    justify-items: center;
+}
+
+.card-body {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+/*.imgElenco {
+    
+    image-orientation: flip;
+     Isso aqui eu ainda devo mexer um pouco 
+    
+} */
+
+
+/* .algumaCoisa {
+    display: grid;
+    
+} */
+
+/* quemSomos {
+    mais alguma coisa...
+} */
+
+.paginação {
+    text-align: center;
+    
+}
+
+#tituloProdutos {
+    margin: 50px;
+}
+
+.cardsA {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+}
+
+
+.cardsB {
+    display: flex;
+    justify-content: center;
+}
+
+.cardsC {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    border: 30px;
+    margin: 45px;
+}
+
+#back-to-top {
+    color: cornflowerblue;
+    background-color: aliceblue;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    border: none;
+    box-shadow: 3px;
+}
